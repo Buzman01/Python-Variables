@@ -27,9 +27,9 @@ We can assign a string value to a variable
 
 //Ex:
 
-x='programming9.com is a programming website'
+x='buzz.com is a programming website'
 print(x) 
-# Above line prints the programming9.com is a programming website as an output
+# Above line prints the buzz.com is a programming website as an output
 We can also assign a Boolean value to the variable
 
 //Ex:
